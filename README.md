@@ -6,7 +6,7 @@ Script for integrating OCVS vCenter Alarms to OCI Logging and notification servi
 ### Install pip inside photonOS: (Be patient, it takes a few minutes)
 tdnf install python3-pip
 
-### Install OCI SDK, without touching any existiYng libraries
+### Install OCI SDK, without touching any existing libraries
 pip3 install -U --no-deps oci circuitbreaker
 
 ### Configure SDK to access OCI
