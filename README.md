@@ -35,4 +35,5 @@ Add "run script":
 ![script example](https://github.com/AnykeyNL/OCI-OCVS-vCenterAlarms/raw/main/vcenter-alarm_example1.png)
 or 
 /usr/bin/python /root/scripts/alertoci.py logonly
+![Script example](https://github.com/AnykeyNL/OCI-OCVS-vCenterAlarms/raw/main/vcenter-alarm_example2.png)
 
