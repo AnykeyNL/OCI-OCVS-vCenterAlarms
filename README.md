@@ -32,6 +32,7 @@ copy the contents into the script in that directory
 
 Add "run script":
 /usr/bin/python /root/scripts/alertoci.py
+!(https://github.com/AnykeyNL/OCI-OCVS-vCenterAlarms/blob/main/vcenter-alarm_example1.png)
 or 
 /usr/bin/python /root/scripts/alertoci.py logonly
 
