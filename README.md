@@ -37,3 +37,6 @@ or
 /usr/bin/python /root/scripts/alertoci.py logonly
 ![Script example](https://github.com/AnykeyNL/OCI-OCVS-vCenterAlarms/raw/main/vcenter-alarm_example2.png)
 
+
+After this you will the triggered alarms in the OCI Logs service
+![OCI Logs](https://github.com/AnykeyNL/OCI-OCVS-vCenterAlarms/raw/main/oci_logs_example.png)
